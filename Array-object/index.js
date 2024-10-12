@@ -1,20 +1,20 @@
-// // // Bài tập 1
-// // // Tạo đội tượng
-// // var People = {
-// //   name: "sang",
-// //   age: 22,
-// //   address: "Bình định",
-// //   job: "CNTT",
-// //   interest: "game",
-// // };
+// Bài tập 1
+// Tạo đội tượng
+// var People = {
+//   name: "sang",
+//   age: 22,
+//   address: "Bình định",
+//   job: "CNTT",
+//   interest: "game",
+// };
 
-// // People.job = "oto";
-// // console.log(People.job);
-// // // Thêm hành động vui, chơi
-// // var use = new Object();
-// // People.play = "video";
-// // People.laugh = "fun";
-// // console.log(People.play);
+// People.job = "oto";
+// console.log(People.job);
+// Thêm hành động vui, chơi
+// var use = new Object();
+// People.play = "video";
+// People.laugh = "fun";
+// console.log(People.play);
 // const student = [
 //   { name: "A", age: 22 },
 //   { name: "B", age: 5 },
@@ -28,18 +28,18 @@
 //   { name: "k", age: 7 },
 // ];
 
-// // student.forEach(function (item) {
-// //   item.age = item.age + 1;
-// // });
+// student.forEach(function (item) {
+//   item.age = item.age + 1;
+// });
 
-// // console.log(student);
-// // const update = student.map(function (i) {
-// //   return {
-// //     name: i.name,
-// //     age: i.age + 1,
-// //   };
-// // });
-// // console.log(update);
+// console.log(student);
+// const update = student.map(function (i) {
+//   return {
+//     name: i.name,
+//     age: i.age + 1,
+//   };
+// });
+// console.log(update);
 
 // const use = student.filter(function (i) {
 //   return i.age > 10;

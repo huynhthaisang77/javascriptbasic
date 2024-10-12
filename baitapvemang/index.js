@@ -39,28 +39,28 @@ console.log(result);
 // console.log(dem);
 
 // Viết một hàm để loại bỏ tất cả các giá trị "falsy" (false, null, 0, "", undefined, NaN) từ một mảng.
-const arrSang = [
-  23,
-  23,
-  34,
-  21,
-  21,
-  null,
-  435,
-  "",
-  undefined,
-  56,
-  56,
-  234,
-  657,
-];
-const a = 23;
+// const arrSang = [
+//   23,
+//   23,
+//   34,
+//   21,
+//   21,
+//   null,
+//   435,
+//   "",
+//   undefined,
+//   56,
+//   56,
+//   234,
+//   657,
+// ];
+// const a = 23;
 
-let dem = [];
-for (let i = 0; i < arrSang.length; i++) {
-  if (arrSang[i]) {
-    dem.push(arrSang[i]);
-  }
-}
-console.log(dem);
+// let dem = [];
+// for (let i = 0; i < arrSang.length; i++) {
+//   if (arrSang[i]) {
+//     dem.push(arrSang[i]);
+//   }
+// }
+// console.log(dem);
 // Viết một hàm để tách một mảng số nguyên thành hai mảng, một chứa các số chẵn và một chứa các số lẻ.
